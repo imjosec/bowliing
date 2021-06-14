@@ -14,3 +14,4 @@ The input will receive a value between 0 to 10, that represent the number of pin
 For the business logic and the table with results uses as reference: 
 https://www.kidslearntobowl.com/how-to-keep-score/
 
+In order to run the solution, you need to use the class: com.bowling.scoring.Main
